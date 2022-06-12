@@ -18,4 +18,8 @@
 
 </div>
 
+<div class="my-info">
+  <h2>About me</h2>
+  <p>Hi folks, thanks for visiting my Github pages! My name is Muhammad Rio Kurniawan,</p>
+
 
