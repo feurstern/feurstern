@@ -61,16 +61,16 @@
   
   <div>
     <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"  width="20" height="20"/> English</p>&nbsp;
-    <div>
+    </div>
       
       
   <div>
     <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg"  width="20" height="20"/> Japanese</p>&nbsp;
+    </div>
+  
     <div>
-      
-      <div>
-    <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg"  width="20" height="20"/> German</p>&nbsp;
-    <div>
-
+    <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg"  width="20" height="20"/> Japanese</p>&nbsp;
+    </div>
+   
   <h2> My Github Stats</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feurstern&theme=dark&hide_border=true&locale=ja)](https://git.io/streak-stats)
