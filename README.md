@@ -30,6 +30,7 @@
     <h3>Game design and Multimedia:</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  width="40" height="40"/>&nbsp;
@@ -57,7 +58,19 @@
   
   
   <h2> Spoken Language</h2>
-  <img src=""  width="40" height="40"/>&nbsp;
+  
+  <div>
+    <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"  width="20" height="20"/> English</p>&nbsp;
+    <div>
+      
+      
+  <div>
+    <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/jp.svg"  width="20" height="20"/> Japanese</p>&nbsp;
+    <div>
+      
+      <div>
+    <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg"  width="20" height="20"/> German</p>&nbsp;
+    <div>
 
   <h2> My Github Stats</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feurstern&theme=dark&hide_border=true&locale=ja)](https://git.io/streak-stats)
