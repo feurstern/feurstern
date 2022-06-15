@@ -18,6 +18,19 @@
 
 </div>
 
+<div align="center">
+  <img src="https://c.tenor.com/AlbepvzfWiEAAAAd/rin-yuru-camp.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/Iuz9H8t-eLkAAAAC/upset-nico.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/Ur19tGULKtMAAAAd/anime-girl-blue-haired.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/IMNDZBkct8gAAAAC/anime-girl.gif"   width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/ThWFu50NldAAAAAC/funny-cute.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/nsoEFPKV_agAAAAC/anime-girl.gif"   width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/IbauyqcG7ycAAAAd/tachibana-smug-anime-girl.gif"  width="60" height="60"/>&nbsp;
+  <img src=""  width="60" height="60"/>&nbsp;
+  
+  </div>
+  
+
 <div class="my-info">
   <h2>:man_technologist: About me</h2>
  
