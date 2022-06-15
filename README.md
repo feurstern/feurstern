@@ -27,24 +27,26 @@
   <img src="https://c.tenor.com/nsoEFPKV_agAAAAC/anime-girl.gif"   width="60" height="60"/>&nbsp;
   <img src="https://c.tenor.com/IbauyqcG7ycAAAAd/tachibana-smug-anime-girl.gif"  width="60" height="60"/>&nbsp;
   <img src="https://c.tenor.com/ruqSZCLg2tMAAAAC/vtuber-punkalopi.gif"  width="60" height="60"/>&nbsp;
-  <img src=""  width="60" height="60"/>&nbsp;
-  <img src=""  width="60" height="60"/>&nbsp;
-  <img src=""  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/9OdRAHRkaKEAAAAC/shikimori.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/bZzKPf6a0hgAAAAd/shikimori-shikimori-not-just-cute.gif"  width="60" height="60"/>&nbsp;
+  <img src="https://c.tenor.com/dOGncK_Qo0oAAAAC/kopa22-anime.gif"  width="60" height="60"/>&nbsp;
  
   
   </div>
   
 
 <div class="my-info">
-  <h2>:man_technologist: About me</h2>
+  <h2>#:man_technologist: About me</h2>
  
   <p>Hi folks, thanks for visiting my Github pages! My name is Muhammad Rio Kurniawan, I am just an ordinary lad who who focus on game development, frontend and machine learning field and also quite fond of learning foregin languages.</p>
-  <p>Well, I will give my best shot in order to pursue my dream, I hope a motto <b>"For the sake of learning, no sacrifice is too great to make!"</b>.
-    </p>
+  <p>Well, I will give my best shot in order to pursue my dream, I got motto:</p>
+  <b>"学習ためなら、どんな犠牲を伴って構わない！"</b> <br />
+    <b>"For the sake of learning, no sacrifice is too great to make!"</b>.
+    
  
   <h2> # :hammer_and_wrench:Stacks and Tecnologies</h2>
   <div>
-    <h3>Game design and Multimedia:</h3>
+    <h3>Game Design and Multimedia:</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"  width="40" height="40"/>&nbsp;
@@ -52,6 +54,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"  width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png"  width="40" height="40"/>&nbsp;
    
  
    <h3>Frontend Development:</h3>
@@ -63,7 +67,6 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>&nbsp;
  
-</div>
   
   <h3>Machine Learning:</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg"  width="40" height="40"/>&nbsp;
@@ -74,7 +77,7 @@
   
   
   
-  <h2> Spoken Language</h2>
+  <h2> #Spoken Language</h2>
   
   <div>
     <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"  width="20" height="20"/> English</p>&nbsp;
@@ -89,5 +92,5 @@
     <p><img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg"  width="20" height="20"/> Japanese</p>&nbsp;
     </div>
    
-  <h2> My Github Stats</h2>
+  <h2># My Github Stats</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feurstern&theme=dark&hide_border=true&locale=ja)](https://git.io/streak-stats)
