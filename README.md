@@ -66,7 +66,27 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>&nbsp;
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />&nbsp;
+  
+<img src= "" />&nbsp;
+ <h3>Backend</h3>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />&nbsp;
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" width="40" height="40" />&nbsp
+
+
+ <h3>Database</h
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="40" height="40" />&nbsp;
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" height="40" />&nbsp;
+
+ <h3>Virtualization</h3>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40" />&nbsp;
+
+ <h3>Infrastructure</h3>
+ <img src= "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40" />&nbsp;
   
   <h3>Machine Learning:</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg"  width="40" height="40"/>&nbsp;
