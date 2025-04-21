@@ -115,4 +115,5 @@
   <h2># My Github Stats</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feurstern&theme=dark&hide_border=true&locale=ja)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feurstern" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feurstern)](https://github.com/feurstern/github-readme-stats)
+
