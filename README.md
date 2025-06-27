@@ -50,8 +50,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"  width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg"  width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"  width="40" height="40"/>&nbsp;
@@ -72,9 +72,9 @@
   
 <img src= "" />&nbsp;
  <h3>Backend</h3>
- <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;
  <img src= "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />&nbsp;
- <img src= "https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" width="40" height="40" />&nbsp
+ <img src= "https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original.svg" width="40" height="40" />&nbsp
 
 
  <h3>Database</h
