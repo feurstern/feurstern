@@ -38,7 +38,7 @@
 <div class="my-info">
   <h2>#:man_technologist: About me</h2>
  
-  <p>Hi folks, thanks for visiting my Github pages! I am Rioooo, I am just an ordinary lad who who focus on game development, frontend and machine learning field and also quite fond of learning foregin languages.</p>
+  <p>Hi folks, thanks for visiting my Github pages! I am Rioooo, I am just an ordinary lad who who focus on game development, software developer and machine learning field and also quite fond of learning foregin languages.</p>
   <p>Well, I will give my best shot in order to pursue my dream, I got motto:</p>
   <b>"学習ためなら、どんな犠牲を伴って構わない！"</b> <br />
     <b>"For the sake of learning, no sacrifice is too great to make!"</b>.
