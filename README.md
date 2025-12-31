@@ -96,11 +96,16 @@
 <div class="my-info">
   <h2>:man_technologist:</h2>
  
-  <p>Mankind's ambition to become as gods can result in only two things - successfull ascensions to divinity, or demise the hand of the creations they made to this end.</p>
-<!--   <p>Well, I will give my best shot in order to pursue my dream, I got motto:</p>
-  <b>"学習ためなら、どんな犠牲を伴って構わない！"</b> <br />
-    <b>"For the sake of learning, no sacrifice is too great to make!"</b>. -->
-    
+ 👨‍💻 About Me
+
+“Mankind's ambition to become as gods can result in only two things —
+successful ascension to divinity, or demise at the hands of their own creations.”
+
+I’m a software developer & technologist with a strong interest in web development, systems, game tech, and infrastructure.
+I believe learning is the highest investment:
+
+「学習ためなら、どんな犠牲を伴って構わない！」
+For the sake of learning, no sacrifice is too great to make.
  
   <h2> :hammer_and_wrench:Stacks and Tecnologies</h2>
   <div>
@@ -111,8 +116,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"  width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"  width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png"  width="40" height="40"/>&nbsp;
 
 <h3>Linux</h3>
@@ -130,7 +133,6 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />&nbsp;
   
-<img src= "" />&nbsp;
  <h3>Backend</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" width="40" height="40"/>&nbsp;
  <img src= "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />&nbsp;
@@ -147,6 +149,7 @@
 
  <h3>Infrastructure</h3>
  <img src= "https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg"  width="40" height="40"/>&nbsp;
   
   <h3>Machine Learning:</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg"  width="40" height="40"/>&nbsp;
