@@ -14,8 +14,9 @@
 <h1 bgcolor="blue">Welcome to My Profile</h1> 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" height="300"/>
-  
+  <!-- <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" height="300"/> -->
+  <img width="2048" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bfa4f95-90dd-420a-b963-721708030f66" />
+
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/muhammad-rio-kurniawan-67163421a/">
@@ -94,9 +95,8 @@
 ```
 
 <div class="my-info">
-  <h2>:man_technologist:</h2>
+  <h2>:man_technologist: About me</h2>
  
- 👨‍💻 About Me
 
 “Mankind's ambition to become as gods can result in only two things —
 successful ascension to divinity, or demise at the hands of their own creations.”
