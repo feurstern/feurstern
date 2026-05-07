@@ -51,9 +51,12 @@
 
 ### 💻 Github Profile Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feurstern&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=feurstern&theme=tokyonight&hide_border=false)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feurstern&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feurstern&theme=tokyonight)
 <!---![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feurstern&theme=tokyonight) -->
+
+
   
 <img style="margin-top : '10px'" alt="Feurstern's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=feurstern&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
