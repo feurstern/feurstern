@@ -1,70 +1,73 @@
 <div align="center">
 
-<!-- Banner -->
 <img width="100%" alt="Profile Banner" src="https://github.com/user-attachments/assets/2bfa4f95-90dd-420a-b963-721708030f66" style="border-radius: 15px;" />
 
 <br><br>
 
-<!-- Greeting -->
-<img alt="Hi" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=8B61C0&center=true&random=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Rio">
+<img alt="Hi" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=8B61C0&center=true&random=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Rio;Software+Engineer+%26+Technologist">
 
-<h1 align="center">Welcome to My Profile</h1>
+<br>
 
-<!-- GitHub Stats & Badges -->
+<!-- <p>
+  <a href="https://www.linkedin.com/in/muhammad-rio-kurniawan-67163421a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://web.facebook.com/hortwesselliede/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="http://www.schatz-ai.id/">
+    <img src="https://img.shields.io/badge/Website-8B61C0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p> -->
+
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/feurstern?style=for-the-badge&color=8B61C0">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/feurstern?style=for-the-badge&color=F8D866">
   <img alt="GitHub Profile Counter" src="https://komarev.com/ghpvc/?username=feurstern&color=F85D7F&style=for-the-badge">
-  <a href="http://www.schatz-ai.id/"><img alt="Website" src="https://img.shields.io/website?url=http://www.schatz-ai.id/&label=schatz.ai.id&style=for-the-badge&color=blue"></a>
-  <a href="https://wakatime.com/@76205aa1-14ff-4941-b8f2-8ad9881b5ad4"><img alt="Wakatime" src="https://wakatime.com/badge/user/76205aa1-14ff-4941-b8f2-8ad9881b5ad4.svg?style=for-the-badge"></a>
-</p>
-
-<!-- Socials -->
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-rio-kurniawan-67163421a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://web.facebook.com/hortwesselliede/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wakatime.com/@76205aa1-14ff-4941-b8f2-8ad9881b5ad4">
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/76205aa1-14ff-4941-b8f2-8ad9881b5ad4.svg?style=for-the-badge">
   </a>
 </p>
 
 <br>
 
-<!-- Anime GIFs -->
-<p>
-  <img src="https://c.tenor.com/AlbepvzfWiEAAAAd/rin-yuru-camp.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/Iuz9H8t-eLkAAAAC/upset-nico.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/Ur19tGULKtMAAAAd/anime-girl-blue-haired.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/IMNDZBkct8gAAAAC/anime-girl.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/ThWFu50NldAAAAAC/funny-cute.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/nsoEFPKV_agAAAAC/anime-girl.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/IbauyqcG7ycAAAAd/tachibana-smug-anime-girl.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/ruqSZCLg2tMAAAAC/vtuber-punkalopi.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/9OdRAHRkaKEAAAAC/shikimori.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/bZzKPf6a0hgAAAAd/shikimori-shikimori-not-just-cute.gif" width="55" height="55"/>
-  <img src="https://c.tenor.com/dOGncK_Qo0oAAAAC/kopa22-anime.gif" width="55" height="55"/>
-</p>
+<details>
+  <summary><b>✨ Click to see my Anime GIF Collection ✨</b></summary>
+  <br>
+  <p>
+    <img src="https://c.tenor.com/AlbepvzfWiEAAAAd/rin-yuru-camp.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/Iuz9H8t-eLkAAAAC/upset-nico.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/Ur19tGULKtMAAAAd/anime-girl-blue-haired.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/IMNDZBkct8gAAAAC/anime-girl.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/ThWFu50NldAAAAAC/funny-cute.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/nsoEFPKV_agAAAAC/anime-girl.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/IbauyqcG7ycAAAAd/tachibana-smug-anime-girl.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/ruqSZCLg2tMAAAAC/vtuber-punkalopi.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/9OdRAHRkaKEAAAAC/shikimori.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/bZzKPf6a0hgAAAAd/shikimori-shikimori-not-just-cute.gif" width="55" height="55"/>
+    <img src="https://c.tenor.com/dOGncK_Qo0oAAAAC/kopa22-anime.gif" width="55" height="55"/>
+  </p>
+</details>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-> “Mankind's ambition to become as gods can result in only two things, successful ascension to divinity, or demise at the hands of their own creations.”
+> **“Mankind's ambition to become as gods can result in only two things, successful ascension to divinity, or demise at the hands of their own creations.”**
 
-I’m a software developer & technologist with a strong interest in web development, systems, game tech, and infrastructure. I believe learning is the highest investment:
+My name is **Muhammad Rio Kurniawan**. I’m a software engineer and technologist with a strong interest in web development, systems, game tech, AI/ML, and infrastructure. I believe learning is the highest investment:
 
 > 「学習ためなら、どんな犠牲を伴って構わない！」 <br>
-> *For the sake of learning, no sacrifice is too great to make.*
+> _For the sake of learning, no sacrifice is too great to make._
 
 ---
 
-## 💻 Github Profile Stats
+## 💻 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feurstern&theme=tokyonight" width="49%" />
@@ -86,20 +89,22 @@ I’m a software developer & technologist with a strong interest in web developm
 
 <div align="center">
 
-### Game Design & Multimedia
+### 🎮 Game Design & Multimedia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="45" height="45" title="Illustrator" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="45" height="45" title="Photoshop" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="45" height="45" title="Premiere Pro" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45" height="45" title="Unity" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" title="C#" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png" width="45" height="45" title="Roblox Studio" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg" width="112" height="30" title="FFmpeg" />
 
-### Linux & OS
+### 🐧 Linux & OS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45" title="Arch Linux" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" title="Debian" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" title="Debian" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" title="Bash" />
 
-### Frontend Development
+### 🌐 Frontend Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" />&nbsp;
@@ -111,26 +116,33 @@ I’m a software developer & technologist with a strong interest in web developm
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" width="45" height="45" title="Quasar" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45" title="Vue.js" />
 
-### Backend
+### ⚙️ Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45" height="45" title="Rust" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45" title="Laravel" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" height="45" title="Go" />
 
-### Database
+### 📡 Messaging & Streaming
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="45" height="45" title="Apache Kafka" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-original.svg" width="45" height="45" title="NATS / JetStream" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" width="45" height="45" title="gRPC" />
+
+### 🗄️ Database
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB" />&nbsp;
+<img src="https://postgis.net/brand.svg" width="45" height="45" title="PostGIS" />
 
-### Virtualization & Infrastructure
+### ☁️ Virtualization & Infrastructure
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="45" height="45" title="Nginx" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" width="45" height="45" title="Proxmox" />
 
-### Machine Learning
+### 🧠 Machine Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" title="TensorFlow" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" title="PyTorch" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python" />
 
-### Version Control System
+### 📚 Version Control System
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git" />
 
 </div>
@@ -140,25 +152,26 @@ I’m a software developer & technologist with a strong interest in web developm
 ## 🌍 Spoken Languages
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/us.svg" width="28" style="border-radius:3px;"/> <b>English</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" width="28" style="border-radius:3px;"/> <b>Japanese</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/de.svg" width="28" style="border-radius:3px;"/> <b>German</b>
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/us.svg" width="30" style="border-radius:4px; margin-right:5px; vertical-align:middle;"/> <b>English</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" width="30" style="border-radius:4px; margin-right:5px; vertical-align:middle;"/> <b>Japanese</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/de.svg" width="30" style="border-radius:4px; margin-right:5px; vertical-align:middle;"/> <b>German</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/kr.svg" width="30" style="border-radius:4px; margin-right:5px; vertical-align:middle;"/> <b>Korean</b>
 </div>
 
 ---
 
-## 🔥 Fastfetch
+## 🔥 System Status (Fastfetch)
 
-```bash                                                        
+```bash                                                           
                 ⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⣻⠝⠋⠠⠔⠛⠁⡀⠀⠈⢉⡙⠓⠶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⢋⣴⡮⠓⠋⠀⠀⢄⠀⠀⠉⠢⣄⠀⠈⠁⠀⡀⠙⢶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⢁⣔⠟⠁⠀⠀⠀⠀⠀⠈⡆⠀⠀⠀⠈⢦⡀⠀⠀⠘⢯⢢⠙⢦⡀               rio@rio-feuerstern-w530 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠃⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⢳⣦⡀⠀⠀⢯⠀⠈⣷⡀               ----------------------- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⢁⣔⠟⠁⠀⠀⠀⠀⠀⠈⡆⠀⠀⠀⠈⢦⡀⠀⠀⠘⢯⢢⠙⢦⡀                rio@rio-feuerstern-w530 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠃⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⢳⣦⡀⠀⠀⢯⠀⠈⣷⡀                ----------------------- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠆⡄⢠⢧⠀⣸⠀⠀⠀⠀⠀⠀⠀⢰⠀⣄⠀⠀⠀⠀⢳⡈⢶⡦⣿⣷⣿⢉⣷⡀⠀            OS: Arc Linux x86_64⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣯⣿⣁⡟⠈⠣⡇⠀⠀⢸⠀⠀⠀⠀⢸⡄⠘⡄⠀⠀⠀⠈⢿⢾⣿⣾⢾⠙⠻⣾⣧⠀            Host: 2447W55 ThinkPad W530 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡿⣮⠇⢙⠷⢄⣸⡗⡆⠀⢘⠀⠀⠀⠀⢸⠧⠀⢣⠀⠀⠀⡀⡸⣿⣿⠘⡎⢆⠈⢳⣽⣆⠀⠀⠀⠀⠀      Kernel: 6.1.106-1-ARCH⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⢻⢷⣄⠀⠀⠀⠀⠀⠀⣾⣳⡿⡸⢀⣿⠀⠀⢸⠙⠁⠀⠼⠀⠀⠀⠀⢸⣇⠠⡼⡤⠴⢋⣽⣱⢿⣧⠀⢳⠈⢧⠀⢻⣿⣧⡀⠀⠀⠀⠀     Uptime: 3 hours, 38 mins ⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⢻⢷⣄⠀⠀⠀⠀⠀⠀⣾⣳⡿⡸⢀⣿⠀⠀⢸⠙⠁⠀⠼⠀⠀⠀⠀⢸⣇⠠⡼⡤⠴⢋⣽⣱⢿⣧⠀⢳⠈⢧⠀⢻⣿⣧⡀⠀⠀⠀⠀      Uptime: 3 hours, 38 mins ⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⡿⣠⡣⠃⣿⠃⠀⠀⠀⠀⣸⣳⣿⠇⣇⢸⣿⢸⣠⠼⠀⠀⠀⡇⠀⡀⠉⠒⣾⢾⣆⢟⣳⡶⠓⠶⠿⢼⣿⣇⠈⡇⠘⢆⠈⢿⡘⣷⠀⠀⠀⠀⠀⠀⠀ Packages: 1681 (pacman) ⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠈⢷⣍⣤⡶⣿⡄⠀⠀⠀⢠⣿⠃⣿⠀⡏⢸⣿⣿⠀⢸⠀⠀⢠⡗⢀⠇⠀⢠⡟⠀⠻⣾⣿⠀⠀⠀⠀⡏⣿⣿⡀⢹⡀⠈⢦⠈⢷⣿⡆⠀⠀⠀⠀⠀⠀ Shell: zsh 5.9 ⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢁⣤⣄⠁⠀⠀⠀⣼⡏⢰⣟⠀⣇⠘⣿⣿⣾⣾⣆⢀⣾⠃⣼⢠⣶⣿⣭⣷⣶⣾⣿⣤⠀⠀⠀⡇⡯⣍⣧⠀⣷⠄⠈⢳⡀⢻⡁⠀⠀⠀⠀⠀⠀ Resolution: 1920x1080, 1920x1080 ⠀⠀
@@ -171,7 +184,7 @@ I’m a software developer & technologist with a strong interest in web developm
 ⠸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⢿⣯⡽⠿⠛⠋⣵⢟⣋⣿⣶⣞⣤⣾⣿⣿⡟⢉⡿⢋⠻⢯⡉⢻⡟⢿⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀CPU: Intel i7-3740QM (8) @ 3.700GHz 
 ⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡞⣿⣆⡀⠀⡼⡏⠉⠚⠭⢉⣠⠬⠛⠛⢁⡴⣫⠖⠁⠀⠀⣩⠟⠁⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Memory: 6983MiB / 31824MiB ⠀
 ⠀⠈⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣽⣿⣿⣾⠳⡙⣦⡤⠜⠊⠁⠀⣀⡴⠯⠾⠗⠒⠒⠛⠛⠛⠛⠛⠓⠿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀GPU: Intel 3rd Gen Core processor Graphics Con ⠀
-⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⣻⣿⣿⠔⢪⠓⠬⢍⠉⣩⣽⢻⣤⣶⣦⠀⠀⠀⢀⣀⣤⣴⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀GPU: NVIDIA Quadro K2000M              ⠀
+⠀⠀⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⣻⣿⣿⠔⢪⠓⠬⢍⠉⣩⣽⢻⣤⣶⣦⠀⠀⠀⢀⣀⣤⣴⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀GPU: NVIDIA Quadro K2000M               ⠀
 ⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⡏⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣯⣿⣿⠀⠀⣇⠀⣠⠎⠁⢹⡎⡟⡏⣷⣶⠿⠛⡟⠛⠛⣫⠟⠉⢿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣷⠈⢷⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣾⣷⡀⣀⣀⣷⡅⠀⠀⠈⣷⢳⡇⣿⠀⠀⣸⠁⢠⡾⣟⣛⣻⣟⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢯⢻⣏⡵⠿⠿⢤⣄⠀⢀⣿⢸⣹⣿⣀⣴⣿⣴⣿⣛⠋⠉⠉⡉⠛⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
