@@ -1,0 +1,2 @@
+- name: Profile Cards
+  uses: seijikohara/profile-cards-action@v1.17.2
